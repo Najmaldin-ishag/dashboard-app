@@ -1,5 +1,8 @@
+// import { Button } from "@/components/ui/button";
+// import { LeafyGreen } from "lucide-react";
+
 const page = () => {
-  return <div>page</div>;
+  return <div className=""></div>;
 };
 
 export default page;
