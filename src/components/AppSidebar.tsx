@@ -49,6 +49,11 @@ const items = [
     icon: Home,
   },
   {
+    title: "Users",
+    url: "/users",
+    icon: User2,
+  },
+  {
     title: "Inbox",
     url: "#",
     icon: Inbox,
